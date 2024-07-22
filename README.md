@@ -1,1 +1,2 @@
-# Consumer-Goods-AD-HOC-Insights
+# Project Overview
+This repository houses the code and SQL queries employed for the Consumer Goods section of the Data Analytics Bootcamp at Codebasics. In this project, I am working with a dataset related to consumer goods. The objective is to address ten specific ad hoc requests using SQL queries. The dataset used in this project is provided by "AtliQ Hardwares," a prominent global hardware company specializing in PCs, printers, mice, and computers.
